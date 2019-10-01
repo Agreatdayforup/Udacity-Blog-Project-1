@@ -1,0 +1,25 @@
+h1 {
+    font-size: 32px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+h2 {
+    font-size: 22px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+h3 {
+    font-size: 20px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+p {
+    font-size: 16px;
+    font-weight: 200;
+    font-family: 'Nunito', sans-serif;
+}
+
+strong {
+    font-weight: 700;
+}
+
