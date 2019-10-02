@@ -10,7 +10,7 @@
 @import "main_blog_content.css";
 @import "media_queries_main.css";
 @import "latest_blog_post.css";
-
+@import "blogPostStyle.css";
 
 * {
     box-sizing: border-box;
